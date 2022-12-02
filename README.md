@@ -86,4 +86,4 @@ http://<YOUR-IP-VPS>:44000/api/node/status
 # <p align="center">DONE!!!</p>
 
 ### Next ?
-[Deinfra Tea Ceremony](https://t.me/thepower_chat)
+[Deinfra Tea Ceremony](https://github.com/DaddyUnikii/Deinfra-Testnet/blob/main/Deinfra%20Tea%20Ceremony.md)
