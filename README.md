@@ -40,14 +40,14 @@
 
 
 ```
-wget -qO deinfra.sh https://raw.githubusercontent.com/DaddyUnikii/Deinfra-Testnet/edit/main/deinfra.sh && chmod +x deinfra.sh && ./deinfra.sh
+wget -qO deinfra.sh https://raw.githubusercontent.com/DaddyUnikii/Deinfra-Testnet/main/deinfra.sh && chmod +x deinfra.sh && ./deinfra.sh
 ```
 ## Check Node
 
 ```
 curl http://<YOUR-IP-VPS>:44000/api/node/status | jq
 ```
-<b>Note:</b> Change `<YOUR-IP-VPS>` with your own IP
+<b>Note:</b><i> Change `<YOUR-IP-VPS>` with your own IP. Ex: `curl http://123.12.2.123:44000/api/node/status | jq` </i>
 
 #
 
@@ -75,7 +75,7 @@ curl http://<YOUR-IP-VPS>:44000/api/node/status | jq
 ```
 http://<YOUR-IP-VPS>:44000/api/node/status
 ```
-  <b>Note:</b> Change `<YOUR-IP-VPS>` with your own IP
+  <b>Note:</b><i> Change `<YOUR-IP-VPS>` with your own IP. Ex: `http://123.12.2.123:44000/api/node/status`</i>
 
 4. Wait for some hours/days, the Bot will send you a <b><i> Special Code </b></i> only for you.
   
@@ -83,7 +83,30 @@ http://<YOUR-IP-VPS>:44000/api/node/status
   
 5. Keep update on [Telegram Group ](https://t.me/thepower_chat) to get more updates
 
-# <p align="center">DONE!!!</p>
+# 
+<div align='center'>
+<a href='https:pornhub.com'>
+    <img width="200" height="200" src="https://media1.giphy.com/media/Ve5vfhwsox2G3bJ44O/giphy.gif?cid=6c09b952658fd8667a47158bbe48257191a98b9da254b85c&rid=giphy.gif&ct=sf"/>
+</a>
+</div>
+
 
 ### Next ?
+
 [Deinfra Tea Ceremony](https://github.com/DaddyUnikii/Deinfra-Testnet/blob/main/Deinfra%20Tea%20Ceremony.md)
+
+Before you go to [Deinfra Tea Ceremony](https://github.com/DaddyUnikii/Deinfra-Testnet/blob/main/Deinfra%20Tea%20Ceremony.md) , you need 2 kind Token Code
+
+| Code Type | Description |
+|----|----------|
+|aaaaaa|Chain Code|
+|bbbbbb|Private Token Code|
+
+### How to get it ?
+<b>aaaaaa</b> - You get it from [Telegram Group ](https://t.me/thepower_chat) Daily - 9 am GMT and 1 pm GMT. Check [Here](https://savvytime.com/converter/gmt)
+`Note: its FCFS based. So make sure you hurry`
+
+<b>bbbbbb</b> - You get it from [Telegram Bot](https://t.me/thepowerio_bot)
+
+#
+# <p align="center">DONE!!!</p>
