@@ -1,5 +1,5 @@
 # WARN!!!
-Before you start, please Register Testnet User and Installation [Here](https://github.com/DaddyUnikii/Deinfra-Testnet/main/README.md)
+Before you start, please Register Testnet User and Installation [Here](https://github.com/DaddyUnikii/Deinfra-Testnet)
 
 #
 <div align="center">
@@ -100,7 +100,7 @@ chmod +x teaclient
 
 <b>Note 1:</b> replace `nickname` with your own nickname anything you want
 
-<b>Note 2:</b> replace `aaaaa.bbbb` with your personal code. its refer to [Here](https://github.com/DaddyUnikii/Deinfra-Testnet/README.md)
+<b>Note 2:</b> replace `aaaaa.bbbb` with your personal code. its refer to [Here](https://github.com/DaddyUnikii/Deinfra-Testnet)
 
 ## 5. Install Docker
 ```
