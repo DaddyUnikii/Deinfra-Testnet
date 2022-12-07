@@ -139,7 +139,7 @@ source ~/.bashrc
 ```
 <b><i>Note: </b></i> replace `youractiveemail` with your own email
 
-## <p align="center">Exit your VPS or Relogin</p>
+## <p align="center">Exit your VPS or Re-Login</p>
 
 #### Next Step
 ```
