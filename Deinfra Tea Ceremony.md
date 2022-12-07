@@ -100,7 +100,7 @@ chmod +x teaclient
 
 <b>Note 1:</b> replace `nickname` with your own nickname anything you want
 
-<b>Note 2:</b> replace `aaaaa.bbbb` with your personal code. its refer to [Here](https://github.com/DaddyUnikii/Deinfra-Testnet/main/README.md)
+<b>Note 2:</b> replace `aaaaa.bbbb` with your personal code. its refer to [Here](https://github.com/DaddyUnikii/Deinfra-Testnet/README.md)
 
 ## 5. Install Docker
 ```
